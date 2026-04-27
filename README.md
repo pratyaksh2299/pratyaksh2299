@@ -7,11 +7,11 @@
 ---
 
 ## 🛠️ Tech Stack
-**Backend:** FastAPI, Python, Node.js
+**Backend:** FastAPI, Python, Node.js,System Design
 **Frontend:** React, Tailwind CSS, Bootstrap
 **Databases:** PostgreSQL (pgvector), MySQL
 **Cloud & DevOps:** AWS (S3, EC2, Bedrock), Docker, GitHub Actions
-**AI/ML:** LangChain, Claude (Anthropic), scikit-learn
+**AI/ML:** LangChain, Claude (Anthropic),
 
 ---
 
